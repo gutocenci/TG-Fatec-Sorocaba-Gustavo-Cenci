@@ -6,6 +6,7 @@ Aplicativo para gerenciar e dar assistencia para pessoas com objetivos de boa fo
 O que já foi realizado e sujeito a melhorias:
 Proposta do TG
 Estrutura do TG
+WBS
 
 Funcionalidades:
-Cardápios, Taxa metabólica, Déficit calórico, Proteínas gorduras e carboidrato diárias.
+Cardápios, Taxa metabólica, Déficit calórico, Proteínas gorduras e carboidrato diárias necessarios.
